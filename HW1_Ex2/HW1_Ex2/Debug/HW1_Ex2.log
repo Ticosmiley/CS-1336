@@ -1,0 +1,4 @@
+﻿  HW1_Ex2.cpp
+d:\users\hhazl\documents\school\cs-1336\c++ projects\hw1_ex2\hw1_ex2\hw1_ex2.cpp(17): warning C4305: 'initializing': truncation from 'double' to 'float'
+  HW1_Ex2.vcxproj -> D:\Users\hhazl\Documents\School\CS-1336\C++ Projects\HW1_Ex2\Debug\HW1_Ex2.exe
+  HW1_Ex2.vcxproj -> D:\Users\hhazl\Documents\School\CS-1336\C++ Projects\HW1_Ex2\Debug\HW1_Ex2.pdb (Partial PDB)
